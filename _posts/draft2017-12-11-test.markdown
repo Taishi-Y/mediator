@@ -9,6 +9,15 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 ---
 #Mediator Formats and CSS features
 
+
+# Table of contents
+1. [Overview](#overview)
+2. [Dependency Injection Examples](#about_dependency_injection)
+    1. [DI Example 1](#di_example_1)
+    2. [DI Example 2](#di_example_2)
+3. [Conclusion](#conclusion)
+
+
 Examples for different formats and css features
 
 #Header Formats
