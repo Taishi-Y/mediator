@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to set default ".gitignore" file for Android Studio project ✨"
+title: "How to set default gitignore file for Android Studio project"
 date:   2017-12-14 14:00:00
 categories: development Android
 tags: featured
