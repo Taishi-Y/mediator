@@ -110,4 +110,5 @@ In this post we learned about DI by using examples. In part 2 we will actually l
 - [Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
 
 Have a good hacking day!👋
+
 If you are Android developer or learning Android development, follow me on [Twitter](https://twitter.com/Taishi_Yamasaki)!🐦
