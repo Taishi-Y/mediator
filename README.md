@@ -1,6 +1,20 @@
 mediator
 ========
 
+When you edito
+`jekyll serve --watch`
+
+Deploy to Github and Heroku
+```
+git add .
+git commit -m 'first commit'
+git push heroku master
+heroku open
+```
+
+Heroku and Onamae.com
+[hot to set up](https://qiita.com/DaichiSaito/items/152257a0b93b10852ad3)
+
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
