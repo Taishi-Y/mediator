@@ -3,7 +3,7 @@ layout: post
 title: "How to set default gitignore file for Android Studio project"
 date:   2017-12-14 14:00:00
 categories: development Android
-tags: featured
+tags: 
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 How do you deal with “.gitignore” file when you first create a project with Android Studio?

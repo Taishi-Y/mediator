@@ -3,14 +3,9 @@ layout: post
 title: "The instruction of DI and Dagger2 -part1-"
 date:   2017-12-15 14:00:00
 categories: development Android
-tags: featured
+tags:
 image: /assets/article_images/2017-12-15-The-instruction-of-DI-and-Dagger2/dagger_bg.jpg
 ---
-
-https://rakuishi.com/archives/di-dagger2/
-https://qiita.com/kiimiiis/items/20c3fa79988ed3ccb3c9
-http://satoshun.github.io/2015/05/dagger2/
-http://starzero.hatenablog.com/entry/2016/12/02/084412
 
 # Overview <a name="overview"></a>
 In this series, we are going to learn about Dependency Injection by looking at some example and how to use [dagger2](https://github.com/google/dagger) which is commonly used in Android development.
@@ -108,6 +103,11 @@ In this post we learned about DI by using examples. In part 2 we will actually l
 - [Understanding dependency injection](https://softwareengineering.stackexchange.com/questions/232229/understanding-dependency-injection)
 
 - [Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+
+https://rakuishi.com/archives/di-dagger2/
+https://qiita.com/kiimiiis/items/20c3fa79988ed3ccb3c9
+http://satoshun.github.io/2015/05/dagger2/
+http://starzero.hatenablog.com/entry/2016/12/02/084412
 
 Have a good hacking day!👋
 
